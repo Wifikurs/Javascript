@@ -1,0 +1,13 @@
+:root {
+background:rgb(111, 194, 111);
+}
+h1 {
+    font-size:40px;
+    color:darkblue;
+}
+
+p {
+    font-size:20px;
+    font-weight: 700;
+    font-style: italic;
+}
